@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ##INTRODUCCION
 
-Los murcielagos son los unicos mamiferos que han desarrollado la capacidad de volar y se encuentran practicamente en todo el mundo, con excepcion de las grandes altitudes [@QUINTANA N2007]. Se condidera que este grupo de mamiferos se ha originado hace aproximadamente 51 Ma, sin embargo su origen filogenetico y geografico sigue siendo controversial [@Gunnell2005]. Es el segundo grupo de mamiferos continentales mas diverso (con aproximadamente 1240 especies).
+Los murcielagos son los unicos mamiferos que han desarrollado la capacidad de volar y se encuentran practicamente en todo el mundo, con excepcion de las grandes altitudes [@QUINTANA]. Se condidera que este grupo de mamiferos se ha originado hace aproximadamente 51 Ma, sin embargo su origen filogenetico y geografico sigue siendo controversial [@Gunnell2005]. Es el segundo grupo de mamiferos continentales mas diverso (con aproximadamente 1240 especies).
 A pesar de ser especies poco atractivas para el publico en general, principalmente por ser transmisores de la rabia [@burns1956insectivorous], han tomado importancia social en los ultimos años, dado que se reconocio y valoro economicamente su importancia ecosistemica [@Boyles41].
 Las Areas Protegidas datan de 1872, cuando se creo el primer Parque Nacional (Yellowstone) en el noroeste de los Estados Unidos de America, esto fue una iniciativa mundial a la perdida la biodiversidad. Un Area protegida es "un espacio geográfico definido, reconocido y gestionado, mediante medios legales u otros tipos de medios eficaces para conseguir la conservacion a largo plazo de la naturaleza y de sus servicios ecosistémicos y sus valores culturales asociados" (Dudley 2008). 
 
